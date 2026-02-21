@@ -1,0 +1,12 @@
+CompileFlags:
+  Compiler: C:\W64DevKit\bin\g++.exe
+  Add:
+    - -std=c++17
+    - -IC:\W64DevKit\lib\gcc\x86_64-w64-mingw32\15.2.0\include\c++
+    - -IC:\W64DevKit\lib\gcc\x86_64-w64-mingw32\15.2.0\include\c++\x86_64-w64-mingw32
+    - -IC:\W64DevKit\lib\gcc\x86_64-w64-mingw32\15.2.0\include\c++\backward
+    - -IC:\W64DevKit\lib\gcc\x86_64-w64-mingw32\15.2.0\include
+    - -IC:\W64DevKit\lib\gcc\x86_64-w64-mingw32\15.2.0\include-fixed
+    - -IC:\W64DevKit\include
+Diagnostics:
+  UnusedIncludes: None
