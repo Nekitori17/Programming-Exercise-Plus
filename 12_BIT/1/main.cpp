@@ -51,7 +51,6 @@ int main() {
 
       update(i, x);
 
-      a[i] = x;
     } else if (type == 2) {
       int l, r;
       cin >> l >> r;
