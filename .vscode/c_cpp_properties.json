@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "name": "Win32",
+      "compilerPath": "C:/W64DevKit/bin/gcc.exe",
+      "intelliSenseMode": "${default}"
+    }
+  ],
+  "version": 4
+}
